@@ -1,0 +1,25 @@
+{
+  "name": "google-access-file",
+  "version": "1.0.0",
+  "description": "build google access json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eagle7410/google-access-file.git"
+  },
+  "author": "Igor Stcherbina <verycooleagle@gmail.com> (http://github.com/eagle7410)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eagle7410/google-access-file/issues"
+  },
+  "homepage": "https://github.com/eagle7410/google-access-file#readme",
+  "dependencies": {
+    "console-color": "https://github.com/eagle7410/console-color",
+    "console-prompt-eagle": "1.0.1",
+    "fsp-eagle": "1.0.1",
+    "googleapis": "33.0.0"
+  }
+}
